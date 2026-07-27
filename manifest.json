@@ -1,0 +1,25 @@
+{
+  "name": "Mr Fasal Wala - Digital Mandi",
+  "short_name": "Fasal Wala",
+  "description": "India's Trusted Digital Marketplace for Crops & Crop Waste",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8E1",
+  "theme_color": "#2E7D32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
